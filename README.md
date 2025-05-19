@@ -43,27 +43,16 @@ task-manager/
 
 └── README.md
 
-bash
-Copy
-Edit
-
 ## Installation & Setup
 
 1. **Clone the repository**
 
-```bash
-git clone https://github.com/your-username/task-manager.git
+git clone https://github.com/luchiri/task-manager-web-app.git
 cd task-manager
 Install dependencies
 
-bash
-Copy
-Edit
 npm install
 Start the development server
 
-bash
-Copy
-Edit
 npm start
 Open in browser: http://localhost:3000
